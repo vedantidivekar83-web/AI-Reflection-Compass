@@ -51,3 +51,50 @@ The final step involves reflecting on the entire process to understand:
 Problem → AI Suggestion → Verification → Human Decision → Reflection
 
 ---
+## AI Hallucination Control
+
+AI systems can sometimes generate incorrect, misleading, or unsupported information. This phenomenon is known as AI hallucination.
+
+To reduce hallucinations, the following verification methods were used in this project:
+
+- Cross-checking information from multiple trusted sources
+- Comparing AI-generated answers with official websites
+- Verifying facts through logical reasoning
+- Rejecting unsupported or unclear responses
+- Using human judgment before making final decisions
+
+---
+
+## Example of Human Verification
+
+### Problem
+Finding the best AI learning tool for students.
+
+### AI Suggestion
+The AI suggested:
+- ChatGPT
+- Gemini
+- Copilot
+
+### Verification Process
+The suggestions were verified by:
+- checking usability
+- comparing learning features
+- reviewing student feedback
+- analyzing ease of understanding
+
+### Final Human Decision
+ChatGPT was selected because it provided:
+- beginner-friendly explanations
+- interactive communication
+- better learning support
+
+---
+
+## Disagreement With AI
+
+In some situations, AI may provide incomplete or biased suggestions. Instead of accepting all responses directly, human verification was used to evaluate accuracy and reliability.
+
+This project demonstrates that AI should assist human intelligence, not replace it.
+
+---
