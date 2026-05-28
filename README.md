@@ -21,3 +21,33 @@ The main objectives of this project are:
 - To encourage ethical AI collaboration
 
 ---
+## Reflection Compass Model
+
+The AI Reflection Compass follows a structured human + AI collaboration process.
+
+### Step 1 — Problem Identification
+The user first identifies the problem or task that needs to be solved.
+
+### Step 2 — AI Suggestion
+AI tools provide possible solutions, recommendations, or information related to the problem.
+
+### Step 3 — Verification
+The AI-generated response is verified using trusted sources, reviews, comparisons, and logical analysis.
+
+### Step 4 — Human Decision
+After verification, the human makes the final decision based on accuracy, usability, and ethical considerations.
+
+### Step 5 — Reflection
+The final step involves reflecting on the entire process to understand:
+- what worked well
+- what was incorrect
+- how AI assisted the task
+- how human thinking improved the final outcome
+
+---
+
+## Reflection Compass Flow
+
+Problem → AI Suggestion → Verification → Human Decision → Reflection
+
+---
